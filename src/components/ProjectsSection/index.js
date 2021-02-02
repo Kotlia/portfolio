@@ -14,14 +14,14 @@ import simononlineLogo from '../../assets/images/projects/simononline-logo.jpg'
 class ProjectsSection extends React.Component {
   render() {
     return (
-      <Section title="Projects">
+      <Section title="Open Source Repos">
         <div className="row">
           <ExperienceUnit
             logo={kaedeLogo}
             colour="#FFFFFF"
             title="Kaede"
             link="https://github.com/Kotlia/Kaede"
-            timeperiod="Kotlin"
+            timeperiod="Kotlin (Java) / Python3.0"
             subtitle="K for Kotlin. Japanese language operation library. Also contains experimental python library."
           />
             <ExperienceUnit
@@ -29,14 +29,14 @@ class ProjectsSection extends React.Component {
                 colour="#FFFFFF"
                 title="Caede"
                 link="https://github.com/Kotlia/Caede"
-                timeperiod="C++"
+                timeperiod="C/C++"
                 subtitle="C for C++. Japanese language operation library. Still under development."
             />
           <ExperienceUnit
               logo={vektorLogo}
               title="Vektor.js"
               link="https://github.com/Kotlia/Vektor.js"
-              timeperiod="JavaScript / Node.js"
+              timeperiod="Node.js"
               subtitle="Vector operation library in JavaScript."
           />
           <ExperienceUnit

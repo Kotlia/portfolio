@@ -2,7 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d09fdec2-bf8a-4db8-b383-f419b9781b56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/highlight/react-i18n-auto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-ssr.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-ssr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/experience/cpp-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/experience/cpp-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/experience/kubernetes-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/experience/kubernetes-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/experience/zomato-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/experience/zomato-logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_colors.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExperienceSection/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExperienceSection/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExperienceUnit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExperienceUnit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ExperienceUnit/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ExperienceUnit/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HighlightSection/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HighlightSection/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HighlightUnit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HighlightUnit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HighlightUnit/spacer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HighlightUnit/spacer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HighlightUnit/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HighlightUnit/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProjectsSection/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProjectsSection/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Section/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Section/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar/About/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar/About/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar/About/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar/About/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar/Links/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar/Links/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar/Links/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar/Links/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +73,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -49,7 +93,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/HighlightSection" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images/highlight" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,10 +101,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.色スキームフォント" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shunu\Documents\github\js\portfolio\src\assets\images\highlight" />
       <recent name="C:\Users\shunu\Documents\github\portfolio\src\components\HighlightSection" />
       <recent name="C:\Users\shunu\Documents\github\portfolio\src\components\HighlightUnit" />
       <recent name="C:\Users\shunu\Documents\github\portfolio\src\assets\images\experience" />
@@ -97,6 +143,7 @@
       <workItem from="1610748639223" duration="1106000" />
       <workItem from="1611178111147" duration="84000" />
       <workItem from="1611181887771" duration="2784000" />
+      <workItem from="1612290108570" duration="1656000" />
     </task>
     <servers />
   </component>
